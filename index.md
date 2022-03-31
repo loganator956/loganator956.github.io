@@ -7,15 +7,12 @@ Visit my [itch.io page](https://namesnotsteve.itch.io)
 
 ## Projects
 
-| Project | Languages/Engines/etc. | Description |
-| --- | --- | --- |
-| [Unexpected Results](https://github.com/loganator956/unexpected-results) | Unity, C# | A game I made as part of a team of 3 in a game jam for college |
-| [Pathfinding Tests](https://github.com/loganator956/pathfinding-tests) | Unity, C# | A small exploration to create and implenent the A* pathfinding independently |
-| [Simple City Builder](https://github.com/loganator956/simple-city-builder) | Unity, C# | A small city builder, in development |
-| [Godot Clicker Game](https://github.com/loganator956/godot-clicker-game) | Godot, C# | My first game in the Godot game engine. Not very good as a game but is involved in my Godot learning journey |
-| [Web Dev For Beginners](https://github.com/loganator956/Web-Dev-For-Beginners) | HTML, CSS, JavaScript | A web dev course that I am doing to begin learning the basics of web development |
-| [Photo Game](https://github.com/loganator956/enhance-jam-collect) | Unity, C# | A game I made for a game jam with theme of 'Collect' |
+| Links | Project | Languages/Engines/etc. | Description |
+| --- | --- | --- | --- |
+| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/loganator956/unexpected-results) [<img src="https://static.itch.io/images/app-icon.svg" width="20">](https://tortoisesystem.itch.io/unexpected-results) | Unexpected Results | ![Engine Unity](https://img.shields.io/badge/Engine-Unity-lightgrey) ![C# Language](https://img.shields.io/badge/Language-C%23-green) | A game I made as part of a team of 3 in a game jam for college |
+| N/A | Pathfinding Tests **Currently Privated** | ![Engine Unity](https://img.shields.io/badge/Engine-Unity-lightgrey), ![C# Language](https://img.shields.io/badge/Language-C%23-green) | A small exploration to create and implenent the A* pathfinding independently |
+| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/loganator956/enhance-jam-collect) [<img src="https://static.itch.io/images/app-icon.svg" width="20">](https://namesnotsteve.itch.io/photo-game) | Photo Game| ![Engine Unity](https://img.shields.io/badge/Engine-Unity-lightgrey), ![C# Language](https://img.shields.io/badge/Language-C%23-green) | A game I made for a game jam with theme of 'Collect' |
 
 ---
 
-This page will not remain like this forever, there will be pictures and project pages and all that jazz. Just learning web dev so I can do this.
+This page will not remain like this forever, I hope to improve it sometime in the future when I learn how to. I am aiming to include more stuff
